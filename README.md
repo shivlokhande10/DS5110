@@ -12,14 +12,8 @@ This project provides an in-depth financial analysis of Silicon Valley Bank (SVB
 - **Scripts**:
   - `analysis_script.py`: The main script that performs data cleaning, analysis, and visualization.
 
-## Installation
 
-To run the analysis, you will need to have the following dependencies installed:
-
-```bash
-pip install pandas matplotlib sqlite3
-
-## Results
+# Results
 The analysis provides graphs illustrating the trends in key financial metrics over the years, comparing the performance of the three banks. Insights derived from these graphs highlight significant differences in their financial management and risk mitigation strategies.
 
 ## Conclusion
