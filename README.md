@@ -19,3 +19,8 @@ To run the analysis, you will need to have the following dependencies installed:
 ```bash
 pip install pandas matplotlib sqlite3
 
+## Results
+The analysis provides graphs illustrating the trends in key financial metrics over the years, comparing the performance of the three banks. Insights derived from these graphs highlight significant differences in their financial management and risk mitigation strategies.
+
+## Conclusion
+The project underscores the importance of robust financial oversight and risk management. SVB's volatility in financial performance contrasts with Morgan Stanley's stability and HSBC's conservative approach, offering lessons on the impacts of risk management practices.
